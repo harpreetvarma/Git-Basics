@@ -16,6 +16,8 @@ git checkout master
 
 git merge MyBranch
 
+## Delete Git Branch :
+
 git branch -D MyBranch
 
 ADD a origin(Repo) where we can use command " git push origin master"
@@ -43,4 +45,8 @@ git merge master
 git commit -a -m 'merge conflicts now resolved'
 
 git push -u origin master
+
+## Command Line (Save  & Quit)
+
+After writing commit message, just press Esc Button and then write :wq or :wq! and then Enter to close the unix file.
 
